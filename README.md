@@ -2,7 +2,7 @@
 
 ![Tests](https://github.com/Bynder/bynder-js-sdk/workflows/Tests/badge.svg)
 ![Publish](https://github.com/Bynder/bynder-js-sdk/workflows/Publish/badge.svg)
-
+Tester Mctesty
 This SDK aims to help the development of integrations with
 [Bynder](https://www.bynder.com/en/) that use JavaScript, providing an easy
 interface to communicate with
